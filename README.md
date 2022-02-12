@@ -1,5 +1,5 @@
-## Copy Websites and redesign
-***Scrape website and export it into image, html format.***
+## Copy Websites and redesign [Google Chrome Extension]
+***Copy Websites is easy-to-use offline browser utility. Scrape website and export it into image or html format.***
 
 Copy Websites gives you the ability to easily capture HTML,
 it easy to save a Web page as an HTML file or take screenshot for viewing offline, but that is far from your only option when you want to preserve some or all of the content on a Web page
@@ -41,7 +41,46 @@ Loading an unpacked extension
 
 Ta-da! The extension has been successfully installed. Because no icons were included in the manifest, a generic icon will be created for the extension.
 
+## Usage
+After successfully install a floating button display on the right corner of bottom in every webpage.
+<img src="https://github.com/rkbbd/copy-websites/blob/master/Demo/1.png"/>
+**Clicking on floating button show multiple option.**
 
+* Take screenshot<img align="right" style="width:300px; float: right;" src="https://github.com/rkbbd/copy-websites/blob/master/Demo/2.png"/>
+* Export Html
+* Open Image Draft
+* Open Html Draft                           
+
+**Change Websites Content:**</br>
+How to edit a website:
+Open any web page with Chrome and click the object you want to edit (ie: text, buttons). 
+<img style="width:300px; float: right;" src="https://github.com/rkbbd/copy-websites/blob/master/Demo/7.png"/>
+
+**Add CSS and disable extensions:**</br>
+<img src="https://github.com/rkbbd/copy-websites/blob/master/Demo/8.png"/>
+
+**Apply CSS:**</br>
+You can change the look of an entire target by changing css on this box!
+<img style="width:500px; float: right;" src="https://github.com/rkbbd/copy-websites/blob/master/Demo/9.png"/>
+
+*#Change Style:*</br>
+<img style="width:500px; float: right;" src="https://github.com/rkbbd/copy-websites/blob/master/Demo/10.png"/>
+
+*#Export:HTML/PNG*</br>
+<img style="width:500px; float: right;" src="https://github.com/rkbbd/copy-websites/blob/master/Demo/3.png"/>
+<img style="width:500px; float: right;" src="https://github.com/rkbbd/copy-websites/blob/master/Demo/4.png"/>
+
+
+*#Screenshot: Full Webpage*</br>
+Capture a screenshot of your target page in entirety and reliably—without requesting any extra permissions!
+The simplest way to take a full page screenshot of your current browser window. Click on the extension icon, watch the extension capture each part of the page, and another option is to be transported to a new tab of your screenshot where you can download it as an image.
+
+<img style="width:500px; float: right;" src="https://github.com/rkbbd/copy-websites/blob/master/Demo/12.png"/>
+
+Deactivate:disable google chrome extensions in anytime.
+<img style="width:100px; float: right;" src="https://github.com/rkbbd/copy-websites/blob/master/Demo/11.png"/>
+
+It allows you to download and control a World Wide Web site from the Internet to a local directory, getting HTML, images from the server to your computer.
 ## Contributing
 Want to contribute? Super!
 
